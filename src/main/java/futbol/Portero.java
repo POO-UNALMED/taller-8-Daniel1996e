@@ -21,4 +21,6 @@ public class Portero extends Futbolista {
 	public boolean jugarConLasManos() {
 		return true;
 	}
+
+	
 }
